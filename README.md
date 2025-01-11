@@ -1,1 +1,1 @@
-sqe jenkinstry
+sqe-test jenkinstry
